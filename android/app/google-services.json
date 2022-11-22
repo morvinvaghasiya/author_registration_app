@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964181374553",
+    "project_id": "author-registration-app-c09f6",
+    "storage_bucket": "author-registration-app-c09f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964181374553:android:76153f1f3f278f88292348",
+        "android_client_info": {
+          "package_name": "com.author_registration_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964181374553-4ngfl5717or25tp66kkrk0gfrbufcvjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1MhUk_Mf53E8Hoo6kmGzjFKseFq-Ouk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964181374553-4ngfl5717or25tp66kkrk0gfrbufcvjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
